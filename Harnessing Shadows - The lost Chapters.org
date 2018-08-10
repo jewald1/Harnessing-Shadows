@@ -1,0 +1,502 @@
+#+TITLE: Harnessing Shadows - The lost Chapters - A Warlock and Casters Guide to raiding
+#+AUTHOR: Suchenengel <Thunder Downunder>
+#+DATE: <2018-08-10 Fr>
+#+LANGUAGE: en
+\newpage
+* Warlock specific Stuff
+** TODO Gear
+** TODO Specs
+** TODO When to use Life Tap
+** TODO Addons
+
+\newpage
+* Consumeables
+** Alchemy
+*** Flasks
+    - [[https://vanilla-twinhead.twinstar.cz/?item=13512][Flask of Supreme Power]] - You want to take this for Progression
+    - [[https://vanilla-twinhead.twinstar.cz/?item=13513][Flask of Chromatic Resistance]] - May be useful if there are few healers
+    - [[https://vanilla-twinhead.twinstar.cz/?item=13510][Flask of the Titans]] - May be useful if there are few healers
+    - [[https://vanilla-twinhead.twinstar.cz/?item=13511][Flask of Distilled Wisdom]] - Not thate useful for Locks tbh
+
+*** Protection
+    - [[https://vanilla-twinhead.twinstar.cz/?item=13461][Greater Arcane Protection Potion]] - used on Shazzrah
+    - [[https://vanilla-twinhead.twinstar.cz/?item=13457][Greater Fire Protection Potion]] - Multiple Bossses in MC and BWL
+    - [[https://vanilla-twinhead.twinstar.cz/?item=13456][Greater Frost Protection Potion]] - Multiple Bosses in Naxx
+    - [[https://vanilla-twinhead.twinstar.cz/?item=13458][Greater Nature Protection Potion]] - AQ40 and the Dragons of Nightmare
+    - [[https://vanilla-twinhead.twinstar.cz/?item=13459][Greater Shadow Protection Potion]]
+
+*** Stats
+    - [[https://vanilla-twinhead.twinstar.cz/?spell=17555][Elixir of the Sages]] - Increases Intellect and Spirit by 18 for 1 hr.
+
+*** Damage
+    - [[https://vanilla-twinhead.twinstar.cz/?spell=11476][Elixir of Shadow Power]] - Increases spell shadow damage by up to 40 for 30 min
+    - [[https://vanilla-twinhead.twinstar.cz/?item=13454][Greater Arcane Elixir]] -  Increases spell damage by up to 35 for 1h.
+    - [[https://vanilla-twinhead.twinstar.cz/?spell=11461][Arcane Elixir]] - Increases spell damage by up to 20 for 30 min.
+
+*** Regen
+    - [[https://vanilla-twinhead.twinstar.cz/?spell=22732][Major Rejuvenation Potion]] - Restores 1440 to 1761 mana and health. (cooldown 2 min)
+    - [[https://vanilla-twinhead.twinstar.cz/?spell=17556][Major Healing Potion]] - Restores 1050 to 1751 health. (cooldown 2 min)
+    - [[https://vanilla-twinhead.twinstar.cz/?item=13444][Major Mana Potion]] - Restores 1350 to 2251 mana.
+    - [[https://vanilla-twinhead.twinstar.cz/?item=13443][Superior Mana Potion]] - Restores 900 to 1501 mana
+    - [[https://vanilla-twinhead.twinstar.cz/?item=18841][Combat Mana Potion]] - Restores 900 to 1501 mana
+    - [[https://vanilla-twinhead.twinstar.cz/?item=6149][Greater Mana Potion]] - Restores 700 to 901 mana
+    - [[https://vanilla-twinhead.twinstar.cz/?spell=24368][Major Troll's Blood Potion]] - Regenerate 20 health every 5 sec for 1 hr.
+    - [[https://vanilla-twinhead.twinstar.cz/?spell=24365][Mageblood Potion]] - Regenerate 12 mana per 5 sec for 1 hr. (cooldown 10 sec)
+    - [[https://vanilla-twinhead.twinstar.cz/?spell=24366][Greater Dreamless Sleep Potion]] - Puts the imbiber in a dreamless sleep for 12 sec. During that time the imbiber heals 2100 health and 2100 mana. (cooldown 2 min)
+    - [[https://vanilla-twinhead.twinstar.cz/?spell=3451][Mighty Troll's Blood Potion]] - Regenerate 12 health every 5 sec for 1 hr.
+
+
+** Enchanting
+   - [[https://vanilla-twinhead.twinstar.cz/?item=20748][Brilliant Mana Oil]]
+   - [[https://vanilla-twinhead.twinstar.cz/?item=20749][Brilliant Wizard Oil]]
+   - [[https://vanilla-twinhead.twinstar.cz/?item=20747][Lesser Mana Oil]]
+   - [[https://vanilla-twinhead.twinstar.cz/?item=20746][Lesser Wizard Oil]]
+   - [[https://vanilla-twinhead.twinstar.cz/?item=20745][Minor Mana Oil]]
+   - [[https://vanilla-twinhead.twinstar.cz/?item=20744][Minor Wizard Oil]]
+   - [[https://vanilla-twinhead.twinstar.cz/?item=20750][Wizard Oil]]
+
+
+** Cooking
+*** Well fed
+**** 12 Stamina / 8 Spirt
+     - [[https://vanilla-twinhead.twinstar.cz/?item=12218][Monster Omelet]]
+     - [[https://vanilla-twinhead.twinstar.cz/?item=12216][Spiced Chili Crab]]
+     - [[https://vanilla-twinhead.twinstar.cz/?item=18045][Tender Wolf Steak]]
+     - [[https://vanilla-twinhead.twinstar.cz/?item=17222][Spider Sausage]]
+     - [[https://vanilla-twinhead.twinstar.cz/?item=12215][Heavy Kodo Stew]]
+
+**** 8 Stamina / 8 Spirit
+     - [[https://vanilla-twinhead.twinstar.cz/?item=12212][Jungle Stew]]
+     - [[https://vanilla-twinhead.twinstar.cz/?item=6038][Giant Clam Scorcho]]
+     - [[https://vanilla-twinhead.twinstar.cz/?item=3729][Soothing Turtle Bisque]]
+     - [[https://vanilla-twinhead.twinstar.cz/?item=4457][Barbecued Buzzard Wing]]
+     - [[https://vanilla-twinhead.twinstar.cz/?item=13851][Hot Wolf Ribs]]
+     - [[https://vanilla-twinhead.twinstar.cz/?item=12210][Roast Raptor]]
+     - [[https://vanilla-twinhead.twinstar.cz/?item=12213][Carrion Surprise]]
+     - [[https://vanilla-twinhead.twinstar.cz/?item=12214][Mystery Stew]]
+     - [[https://vanilla-twinhead.twinstar.cz/?item=20074][Heavy Crocolisk Stew]]
+
+**** MP / 5 seconds
+     - [[https://vanilla-twinhead.twinstar.cz/?item=21072][Smoked Sagefish]]
+     - [[https://vanilla-twinhead.twinstar.cz/?item=21217][Sagefish Delight]]
+
+**** Strength
+     - [[https://vanilla-twinhead.twinstar.cz/?item=13810][Blessed Sunfruit]]
+     - [[https://vanilla-twinhead.twinstar.cz/?item=20452][Smoked Desert Dumplings]]
+
+\newpage
+*** Stuff that stacks with Well fed
+**** Stamina
+     - [[https://vanilla-twinhead.twinstar.cz/?item=11950][Windblossom Berries (See Worldbuffs section)]]
+     - [[https://vanilla-twinhead.twinstar.cz/?item=13934][Mightfish Steak]]
+     - [[https://vanilla-twinhead.twinstar.cz/?item=13927][Cooked Glossy Mightfish]]
+     - [[https://vanilla-twinhead.twinstar.cz/?item=21023][Dirge's Kickin' Chimaerok Chops]]
+
+**** Other Stats
+     - [[https://vanilla-twinhead.twinstar.cz/?item=13928][Grilled Squid (10 Agility)]]
+     - [[https://vanilla-twinhead.twinstar.cz/?item=18254][Runn Tum Tuber Surprise (10 Intellect)]]
+     - [[https://vanilla-twinhead.twinstar.cz/?item=13929][Hot Smoked Bass (10 Spirit)]]
+     - [[https://vanilla-twinhead.twinstar.cz/?item=13931][Nightfin Soup (8 MP / 5 seconds)]]
+     - [[https://vanilla-twinhead.twinstar.cz/?item=13932][Poached Sunscale Salmon (6 HP / 5 seconds)]]
+
+* Worldbuffs
+  Why World Buffs? If you combine ALL of them you gain:
+  +-----------------+---------------+
+  | Casters         | Physical      |
+  +-----------------+---------------+
+  | +18% Spell Crit | +10% Crit     |
+  +-----------------+---------------+
+  | +15% Stats      | +15% Stats    |
+  +-----------------+---------------+
+  | +10% Speed      | +10% Speed    |
+  +-----------------+---------------+
+  | +15 All Stats   | +15 All Stats |
+  +-----------------+---------------+
+  | +15% Stamina    | +15% Stamina  |
+  +-----------------+---------------+
+  |                 | +340 AP       |
+  +-----------------+---------------+
+
+** Un'Goro Crystals
+   Do not bother to get these as they do NOT stack with castable Buffs.
+\newpage
+** [[https://vanilla-twinhead.twinstar.cz/?spell=22888][Rallying Cry of the Dragonslayer]]
+*** How to obtain
+    This Buff can be obtained by turning in the Head of either Onyxia and Nefarian.
+    The Quests for this are:
+    - [[https://vanilla-twinhead.twinstar.cz/?quest=7490][Victory for the Horde (Onyxia)]]
+    - [[https://vanilla-twinhead.twinstar.cz/?quest=7784][The Lord of Blackrock (Nefarian)]]
+
+*** Benefits
+    #+BEGIN_SRC bash
+      Increases critical chance of spells by 10%, melee and ranged by 5% 
+      and grants 140 attack power. 120 minute duration.
+    #+END_SRC
+
+** [[https://vanilla-twinhead.twinstar.cz/?spell=24425][Spirit of Zandalar]]
+*** How to obtain
+   This Buff can be obtained by turning in the [[https://vanilla-twinhead.twinstar.cz/?quest=8183][The Heart of Hakkar]] Quest.
+   You need to Kill [[https://vanilla-twinhead.twinstar.cz/?npc=14834][Hakkar]] and loot the [[https://vanilla-twinhead.twinstar.cz/?item=19802][Heart of Hakkar]] which is a 100% drop.
+
+*** Benefits
+    #+BEGIN_SRC bash
+      Increases movement speed by 10% and all stats by 15% for 2 hours
+    #+END_SRC
+
+** Felwood Buffs
+   These Buffs are obtained by cleansing differnet Flowers in Felwood. You need to do a short Quest to be able to obtain the Items needed for this.
+   The Quest you need to do is : [[https://vanilla-twinhead.twinstar.cz/?quest=4101][Cleansing Felwood]]
+   The Items you'll be able to gather via killing mobs are: [[https://vanilla-twinhead.twinstar.cz/?item=11515][Corrupted Soul Shard]]
+   You'll be able to get Salve with the Quest: [[https://vanilla-twinhead.twinstar.cz/?quest=4103][Salve via Hunting]]
+\newpage
+*** [[https://vanilla-twinhead.twinstar.cz/?spell=15366][Songflower Serenade]]
+    This will give you a attribute and crit buff.
+    You'll need 2 Salve to cleanse this Flower.
+**** How to obtain
+     You'll be able to get this Buff by cleansing a Corrupted Songflower.
+
+**** Benefits
+     #+BEGIN_SRC bash
+       Increases chance for a melee, ranged, or spell critical by 5% 
+       and all attributes by 15 for 1 hr.
+     #+END_SRC
+
+*** [[https://vanilla-twinhead.twinstar.cz/?item=11950][Windblossom Berries]]
+    These Berries apply a Buff which grants you +10 Stamina and Stacks with the "Well fed" Food.
+    You'll need 2 Salve to cleanse this Flower.
+**** How to obtain
+     You'll be able to get this Buff by cleansing a Corrupted Windblossom.
+
+**** Benefits
+     #+BEGIN_SRC bash
+       +10 Stamina
+     #+END_SRC
+
+*** [[https://classicdb.ch/?item=11951][Whipper Root Tuber]]
+    This is a mini Health Potion. Sadly has the same CD as Healthstone from Warlocks in 1.12.
+    You'll need 3 Salve to cleanse this Flower.
+**** How to obtain
+     You'll be able to get this Buff by cleansing a Corrupted Whipper Root.
+
+**** Benefits
+     #+BEGIN_SRC bash
+       Restores 700 to 901 health. (cooldown 2 min)
+     #+END_SRC
+\newpage
+*** [[https://classicdb.ch/?item=11952][Night Dragon's Breath]]
+    This Item restores some Mana and some Health. Sadly has the same CD as Healthstone from Warlocks in 1.12.
+    You'll need 4 Salve to cleanse this Flower.
+**** How to obtain
+     You'll be able to get this Buff by cleansing a Corrupted Night Dragon.
+
+**** Benefits
+     #+BEGIN_SRC bash
+       Restores 394 to 457 mana and 394 to 457 health. (cooldown 2 min)
+     #+END_SRC
+** Winterspring Juju
+   You can gain this Buffs by Farming E'kos in Winterspring.
+*** [[https://classicdb.ch/?item=12457][Juju Chill]]
+**** E'kos you'll need
+     You need: [[https://vanilla-twinhead.twinstar.cz/?item=12434][Chillwind E'ko]]
+     Which is dropped by:
+     - [[https://vanilla-twinhead.twinstar.cz/?npc=7447][Fledgling Chillwind]]
+     - [[https://vanilla-twinhead.twinstar.cz/?npc=7448][Chillwind Chimaera]]
+     - [[https://vanilla-twinhead.twinstar.cz/?npc=7449][Chillwind Ravager]]
+
+**** Benefits
+     #+BEGIN_SRC bash
+       Increase Frost resistance by 15 for 10min.
+     #+END_SRC
+
+*** [[https://vanilla-twinhead.twinstar.cz/?item=12460][Juju Might]]
+    You can gain this Buffs by Farming E'kos in Winterspring.
+**** E'kos you'll need
+     You need: [[https://vanilla-twinhead.twinstar.cz/?item=12436][Frostmaul E'ko]]
+     Which is dropped by:
+     - [[https://vanilla-twinhead.twinstar.cz/?npc=7428][Frostmaul Giant]]
+     - [[https://vanilla-twinhead.twinstar.cz/?npc=7429][Frostmaul Preserver]]
+       
+**** Benefits
+     #+BEGIN_SRC bash
+       Increases attack power by 40 for 10min.
+     #+END_SRC
+
+*** [[https://vanilla-twinhead.twinstar.cz/?item=12450][Juju Flurry]]
+    You can gain this Buffs by Farming E'kos in Winterspring.
+**** E'kos you'll need
+     You need: [[https://vanilla-twinhead.twinstar.cz/?item=12430][Frostsaber E'ko]]
+     Which is dropped by:
+     - [[https://vanilla-twinhead.twinstar.cz/?npc=7430][Frostsaber Cub]]
+     - [[https://vanilla-twinhead.twinstar.cz/?npc=7431][Frostsaber]]
+     - [[https://vanilla-twinhead.twinstar.cz/?npc=7432][Frostsaber Stalker]]
+     - [[https://vanilla-twinhead.twinstar.cz/?npc=7433][Frostsaber Huntress]]
+     - [[https://vanilla-twinhead.twinstar.cz/?npc=7434][Frostsaber Pride Watcher]]
+
+**** Benefits
+     #+BEGIN_SRC bash
+       Increases the target's attack speed by 3% for 20sec.
+     #+END_SRC
+*** [[https://vanilla-twinhead.twinstar.cz/?item=12459][Juju Escape]]
+    You can gain this Buffs by Farming E'kos in Winterspring.
+**** E'kos you'll need
+     You need: [[https://vanilla-twinhead.twinstar.cz/?item=12435][Ice Thistle E'ko]]
+     Which is dropped by:
+     - [[https://vanilla-twinhead.twinstar.cz/?npc=7457][Rogue Ice Thistle]]
+     - [[https://vanilla-twinhead.twinstar.cz/?npc=7458][Ice Thistle Yeti]]
+     - [[https://vanilla-twinhead.twinstar.cz/?npc=7459][Ice Thistle Matriarch]]
+     - [[https://vanilla-twinhead.twinstar.cz/?npc=7460][Ice Thistle Patriarch]]
+
+**** Benefits
+     #+BEGIN_SRC bash
+       Increases your chance to dodge by 5% for 10sec.
+     #+END_SRC
+\newpage
+
+*** [[https://vanilla-twinhead.twinstar.cz/?item=12455][Juju Ember]]
+    You can gain this Buffs by Farming E'kos in Winterspring.
+**** E'kos you'll need
+     You need: [[https://vanilla-twinhead.twinstar.cz/?item=12432][Shardtooth E'ko]]
+     Which is dropped by:
+     - [[https://vanilla-twinhead.twinstar.cz/?npc=7443][Shardtooth Mauler]]
+     - [[https://vanilla-twinhead.twinstar.cz/?npc=7444][Shardtooth Bear]]
+     - [[https://vanilla-twinhead.twinstar.cz/?npc=7445][Elder Shardtooth]]
+     - [[https://vanilla-twinhead.twinstar.cz/?npc=7446][Rabid Shardtooth]]
+       
+**** Benefits
+     #+BEGIN_SRC bash
+       Increases Fire resistance by 15 for 10min.
+     #+END_SRC
+
+*** [[https://vanilla-twinhead.twinstar.cz/?item=12458][Juju Guile]]
+    You can gain this Buffs by Farming E'kos in Winterspring.
+**** E'kos you'll need
+     You need: [[https://vanilla-twinhead.twinstar.cz/?item=12433][Wildkin E'ko]]
+     Which is dropped by:
+     - [[https://vanilla-twinhead.twinstar.cz/?npc=7450][Ragged Owlbeast]]
+     - [[https://vanilla-twinhead.twinstar.cz/?npc=7451][Raging Owlbeast]]
+     - [[https://vanilla-twinhead.twinstar.cz/?npc=7452][Crazed Owlbeast]]
+     - [[https://vanilla-twinhead.twinstar.cz/?npc=7453][Moontouched Owlbeast]]
+     - [[https://vanilla-twinhead.twinstar.cz/?npc=7454][Berserk Owlbeast]]
+       
+**** Benefits
+     #+BEGIN_SRC bash
+       Increases the target's Intellect by 30 for 30min.
+     #+END_SRC
+\newpage
+*** [[https://vanilla-twinhead.twinstar.cz/?item=12451][Juju Power]]
+    You can gain this Buffs by Farming E'kos in Winterspring.
+**** E'kos you'll need
+     You need: [[https://vanilla-twinhead.twinstar.cz/?item=12431][Winterfall E'ko]]
+     Which is dropped by:
+     - [[https://vanilla-twinhead.twinstar.cz/?npc=7438][Winterfall Ursa]]
+     - [[https://vanilla-twinhead.twinstar.cz/?npc=7439][Winterfall Shaman]]
+     - [[https://vanilla-twinhead.twinstar.cz/?npc=7440][Winterfall Den Watcher]]
+     - [[https://vanilla-twinhead.twinstar.cz/?npc=7441][Winterfall Totemic]]
+     - [[https://vanilla-twinhead.twinstar.cz/?npc=7442][Winterfall Pathfinder]]
+     - [[https://vanilla-twinhead.twinstar.cz/?npc=10738][High Chief Winterfall]]
+     - [[https://vanilla-twinhead.twinstar.cz/?npc=10916][Winterfall Runner]]
+       
+**** Benefits
+     #+BEGIN_SRC bash
+       Increases the target's Strength by 30 for 30min.
+     #+END_SRC
+\newpage
+** Blasted Lands Blood Elves Concoctions
+   You can gain some Buffs from 2 Blood Elves in the Blasted Lands. You'll need to farm some Items to get the Buffs as an Item.
+   Only ONE of these farmable Buffs may be active at one Time.
+   Elves:
+   - [[https://vanilla-twinhead.twinstar.cz/?npc=7506][Bloodmage Lynnore]]
+   - [[https://vanilla-twinhead.twinstar.cz/?npc=9836][Mathredis Firestar]]
+
+*** [[https://vanilla-twinhead.twinstar.cz/?item=8423][Cerebral Cortex Compound]]
+**** Items to Farm
+     - 10 x [[https://vanilla-twinhead.twinstar.cz/?item=8394][Basilisk Brain]]
+     -  2 x [[https://vanilla-twinhead.twinstar.cz/?item=8394][Basilisk Brain]]
+
+**** Benefits
+     #+BEGIN_SRC bash
+	Increases Intellect by 25 when consumed. Effect lasts for 60 minutes.
+     #+END_SRC
+*** [[https://vanilla-twinhead.twinstar.cz/?item=8424][Gizzard Gum]]
+**** Items to Farm
+     - 10x [[https://vanilla-twinhead.twinstar.cz/?item=8396][Vulture Gizzard]]
+     - 2x [[https://vanilla-twinhead.twinstar.cz/?item=8391][Snickerfang Jowl]]
+
+**** Benefits
+     #+BEGIN_SRC bash
+       Increases Spirit by 25 when consumed. Effect lasts for 60 minutes.
+     #+END_SRC
+
+*** [[https://vanilla-twinhead.twinstar.cz/?item=8411][Lung Juice Cocktail]]
+**** Items to Farm
+     - 3x [[https://vanilla-twinhead.twinstar.cz/?item=8392][Blasted Boar Lung]]
+     - 2x [[https://vanilla-twinhead.twinstar.cz/?item=8393][Scorpok Pincer]]
+     - 1x [[https://vanilla-twinhead.twinstar.cz/?item=8394][Basilisk Brain]]
+
+**** Benefits
+     #+BEGIN_SRC bash
+       Increases Stamina by 25 when consumed. Effect lasts for 60 minutes.
+     #+END_SRC
+
+*** [[https://vanilla-twinhead.twinstar.cz/?item=8412][Ground Scorpok Assay]]
+**** Items to Farm
+     - 3x [[https://vanilla-twinhead.twinstar.cz/?item=8393][Scorpok Pincer]]
+     - 2x [[https://vanilla-twinhead.twinstar.cz/?item=8396][Vulture Gizzard]]
+     - 1x [[https://vanilla-twinhead.twinstar.cz/?item=8392][Blasted Boar Lung]]
+
+**** Benefits
+     #+BEGIN_SRC bash
+       Increases Agility by 25 when consumed. Effect lasts for 60 minutes.
+     #+END_SRC
+
+*** [[https://vanilla-twinhead.twinstar.cz/?item=8410][R.O.I.D.S.]]
+**** Items to Farm
+     - 3x [[https://vanilla-twinhead.twinstar.cz/?item=8391][Snickerfang Jowl]]
+     - 2x [[https://vanilla-twinhead.twinstar.cz/?item=8392][Blasted Boar Lung]]
+     - 1x [[https://vanilla-twinhead.twinstar.cz/?item=8393][Scorpok Pincer]]
+
+**** Benefits
+     #+BEGIN_SRC bash
+       Increases Strength by 25 when consumed. Effect lasts for 60 minutes.
+     #+END_SRC
+\newpage
+** Darkmoon Faire (Sayge's Dark Fortunes)
+   This Buffs can be aquired by the Fortnue Teller([[https://vanilla-twinhead.twinstar.cz/?npc=14822][Sayge]]) on the Darkmoon Faire.
+   He reads your fortune. According to the Answers you'll get a Buff.
+   All Buffs last 2hrs.
+*** [[https://vanilla-twinhead.twinstar.cz/?spell=23736][Sayge's Dark Fortune of Agility]]
+**** Answers to give
+     +----------+--------+
+     | Question | Answer |
+     +----------+--------+
+     |        3 |3       |
+     +----------+--------+
+     
+**** Benefits
+     #+BEGIN_SRC bash
+       Increases agility by 10%.
+     #+END_SRC
+*** [[https://vanilla-twinhead.twinstar.cz/?spell=23767][Sayge's Dark Fortune of Armor]]
+**** Answers to give
+     +----------+--------+
+     | Question | Answer |
+     +----------+--------+
+     |    1     | 3      |
+     +----------+--------+
+**** Benefits
+     #+BEGIN_SRC bash
+       Increases armor by 10%.
+     #+END_SRC
+
+*** [[https://vanilla-twinhead.twinstar.cz/?spell=23768][Sayge's Dark Fortune of Damage]]
+**** Answers to give
+     +----------+--------+
+     | Question | Answer |
+     +----------+--------+
+     |        1 | 1      |
+     +----------+--------+
+     
+**** Benefits
+     #+BEGIN_SRC bash
+       Increases damage by 10%
+     #+END_SRC
+*** [[https://vanilla-twinhead.twinstar.cz/?spell=23766][Sayge's Dark Fortune of Intelligence]]
+**** Answers to give
+     +----------+--------+
+     | Question | Answer |
+     +----------+--------+
+     |  2       |  2     |
+     +----------+--------+
+**** Benefits
+     #+BEGIN_SRC bash
+       Increases intelligence by 10%
+     #+END_SRC
+*** [[https://vanilla-twinhead.twinstar.cz/?spell=23769][Sayge's Dark Fortune of Resistance]]
+**** Answers to give
+     +----------+--------+
+     | Question | Answer |
+     +----------+--------+
+     |  1       |  2     |
+     +----------+--------+
+**** Benefits
+     #+BEGIN_SRC bash
+       Increases all magical resistances by 25
+     #+END_SRC
+*** [[https://vanilla-twinhead.twinstar.cz/?spell=23738][Sayge's Dark Fortune of Spirit]]
+**** Answers to give
+     +----------+--------+
+     | Question | Answer |
+     +----------+--------+
+     |  2       |  1     |
+     +----------+--------+
+**** Benefits
+     #+BEGIN_SRC bash
+       Increases spirit by 10%
+     #+END_SRC
+*** [[https://vanilla-twinhead.twinstar.cz/?spell=23737][Sayge's Dark Fortune of Stamina]]
+**** Answers to give
+     +----------+--------+
+     | Question | Answer |
+     +----------+--------+
+     |  3       |  1     |
+     +----------+--------+
+
+**** Benefits
+     #+BEGIN_SRC bash
+       Increases stamina by 10%
+     #+END_SRC
+
+*** [[https://vanilla-twinhead.twinstar.cz/?spell=23735][Sayge's Dark Fortune of Strength]]
+**** Answers to give
+     +----------+--------+
+     | Question | Answer |
+     +----------+--------+
+     |  3       |  2     |
+     +----------+--------+
+
+**** Benefits
+     #+BEGIN_SRC bash
+       Increases strength by 10%
+     #+END_SRC
+\newpage
+** [[https://vanilla-twinhead.twinstar.cz/?spell=15123][Resist Fire]]
+   This Buff can be obtained by Mindcontrolling Mobs in LBRS([[https://vanilla-twinhead.twinstar.cz/?npc=9098][Scarshield Spellbinder <Scarshield Legion>]])
+*** Benefits
+    #+BEGIN_SRC bash
+      Increases an ally's Fire resistance by 2 for 1 hr(+83 Fire Resistance)
+    #+END_SRC
+\newpage
+** DM North Buffs (DM Tribute)
+   You need to do a Tribute run. After that the Guards will grant you a buff when you talk to them.
+*** [[https://vanilla-twinhead.twinstar.cz/?spell=22817][Fengus' Ferocity]]
+**** Given by Guard:
+     [[https://vanilla-twinhead.twinstar.cz/?npc=14321][Guard Fengus]]
+
+**** Benefits
+     #+BEGIN_SRC bash
+       Attack power increased by 200. 2hrs
+     #+END_SRC
+*** [[https://vanilla-twinhead.twinstar.cz/?spell=22820][Slip'kik's Savvy]]
+**** Given by Guard:
+     [[https://vanilla-twinhead.twinstar.cz/?npc=14323][Guard Slip'kik]]
+
+**** Benefits
+     #+BEGIN_SRC bash
+       Chance for a critical hit with a spell increased by 3% - 2hrs
+     #+END_SRC
+
+*** [[https://vanilla-twinhead.twinstar.cz/?spell=22818][Mol'dar's Moxie]]
+**** Given by Guard:
+     [[https://vanilla-twinhead.twinstar.cz/?npc=14326][Guard Mol'dar]]
+
+**** Benefits
+     #+BEGIN_SRC bash
+       Overall Stamina increased by 15% - 2hrs
+     #+END_SRC
+
+* TODO Attunements
+** TODO Onyxia
+** TODO Molten Core
+** TODO Blackwing Lair
+** TODO AQ
+** TODO Naxx
