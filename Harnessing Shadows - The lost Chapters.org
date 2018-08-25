@@ -2,7 +2,7 @@
 #+AUTHOR: Suchenengel <Thunder Downunder>
 #+DATE: <2018-08-10 Fr>
 #+LANGUAGE: en
-\newpage
+
 * Warlock specific Stuff
 ** TODO Gear
 ** TODO Specs
